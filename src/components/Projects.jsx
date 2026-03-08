@@ -7,7 +7,7 @@ const projects = [
         description:
             'An AI-powered platform where users upload their resume and a job description to analyze job compatibility using AI and get a job-fit score with detailed insights.',
         tech: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Firebase', 'Cohere AI'],
-        github: 'https://github.com/Abhishek-IEM',
+        github: 'https://github.com/Abhishek-IEM/JobMatch-AI-',
         live: 'https://jobmatch-ai-f1yg.onrender.com/',
         emoji: '🤖',
         gradient: 'from-violet-600 to-purple-600',
@@ -17,7 +17,7 @@ const projects = [
         description:
             'A collaborative real-time code editor that supports multiple programming languages with instant code execution and synchronized editing using WebSockets.',
         tech: ['React.js', 'Node.js', 'Express.js', 'WebSockets', 'Piston API'],
-        github: 'https://github.com/Abhishek-IEM',
+        github: 'https://github.com/Abhishek-IEM/Real-Time-Code-Editor',
         live: 'https://real-time-code-editor-git-main-as6119552-gmailcoms-projects.vercel.app/',
         emoji: '⚡',
         gradient: 'from-blue-600 to-cyan-500',
@@ -27,7 +27,7 @@ const projects = [
         description:
             'An AI-powered web application that converts text prompts into images with secure authentication and premium subscription payments using Razorpay.',
         tech: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Razorpay', 'Clipdrop API'],
-        github: 'https://github.com/Abhishek-IEM',
+        github: 'https://github.com/Abhishek-IEM/Text-to-AI-Image-Generator-',
         live: 'https://text-to-ai-image-generator.onrender.com/',
         emoji: '🎨',
         gradient: 'from-pink-600 to-rose-500',
@@ -37,7 +37,7 @@ const projects = [
         description:
             "An intelligent chatbot application that generates contextual responses using Google's Gemini API with a modern, responsive interface.",
         tech: ['Next.js', 'TypeScript', 'Gemini API'],
-        github: 'https://github.com/Abhishek-IEM',
+        github: 'https://github.com/Abhishek-IEM/AI-Powered-Chatbot',
         live: 'https://ai-powered-chatbot-five.vercel.app/',
         emoji: '💬',
         gradient: 'from-green-600 to-emerald-500',
@@ -47,7 +47,7 @@ const projects = [
         description:
             'A full-stack expense tracker that allows users to manage income and expenses, track financial records, and visualize spending patterns.',
         tech: ['React.js', 'Node.js', 'Express.js', 'MongoDB'],
-        github: 'https://github.com/Abhishek-IEM',
+        github: 'https://github.com/Abhishek-IEM/Expense-App-Deployment',
         live: 'https://expense-app-deployment.onrender.com/',
         emoji: '💰',
         gradient: 'from-orange-600 to-amber-500',
