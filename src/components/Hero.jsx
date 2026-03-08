@@ -79,8 +79,8 @@ export default function Hero() {
                     <motion.div variants={itemVariants} className="flex flex-wrap gap-4">
                         <a
                             id="resume-download"
-                            href="/Abhishek_Sharm_Resume.pdf"
-                            download
+                            href="/AbhishekSharma_Resume.pdf"
+                            download="AbhishekSharma_Resume.pdf"
                             className="btn-primary"
                         >
                             <HiDownload size={18} />
