@@ -1,12 +1,11 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
-import { HiMail, HiPhone, HiLocationMarker, HiPaperAirplane } from 'react-icons/hi'
+import { HiMail, HiLocationMarker, HiPaperAirplane } from 'react-icons/hi'
 import { FaGithub, FaLinkedin } from 'react-icons/fa'
 import { SiLeetcode, SiGeeksforgeeks } from 'react-icons/si'
 
 const contactInfo = [
     { icon: HiMail, label: 'Email', value: 'as6119552@gmail.com', href: 'mailto:as6119552@gmail.com' },
-    { icon: HiPhone, label: 'Phone', value: '+91 XXXXX XXXXX', href: 'tel:+91XXXXXXXXXX' },
     { icon: HiLocationMarker, label: 'Location', value: 'Kolkata, West Bengal, India', href: null },
 ]
 
